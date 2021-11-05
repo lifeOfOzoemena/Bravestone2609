@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bravestone2609
+- 👋 Hi, I’m @LifeOfOzoemena
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on building many projects
